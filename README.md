@@ -21,5 +21,5 @@ This repository is organized to include assignments and projects related to the 
  
 - [Assignment 2](./assignment2/HW2)
 
-- [Project](./project/Project)
+- [Project](./project)
 
