@@ -17,9 +17,9 @@ This repository is organized to include assignments and projects related to the 
 
 ## Table of Contents
 
-- [Assignment 1](./assignment1)
+- [Assignment 1](./assignment1/HW1)
  
-- [Assignment 2](./assignment2)
+- [Assignment 2](./assignment2/HW2)
 
-- [Project](./project)
+- [Project](./project/Project)
 
